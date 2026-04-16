@@ -77,7 +77,8 @@ dentro dos scripts.
 
 ### Usando conda (recomendado)
 
-Após rodar os comandos, selecionar o interpretador do Python relacionado ao ambiente do conda `desafio-env`
+Após rodar os comandos, selecionar o interpretador do Python relacionado ao ambiente do conda `desafio-env`.
+Para criar o ambiente do conda:
 
 ```
 $ conda env create -f environment.yaml
