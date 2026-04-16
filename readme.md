@@ -50,7 +50,7 @@ Eis a forma em que o repositório está organizado:
 Você pode treinar os modelos do zero ou baixá-los por este link (Google Drive):
 https://drive.google.com/file/d/1k5_zhkscdkbqsHYJXPzIPMK3mwzf7pQB/view?usp=sharing
 
-Não leva muito tempo, mas talvez seja mais rápido baixar os modelos.
+Não leva muito tempo para treiná-los, mas talvez seja mais rápido baixar os modelos.
 Se resolver baixá-los, por favor, descompacte-os na pasta `models/` de modo que a estrutura da pasta seja:
 
 ```
